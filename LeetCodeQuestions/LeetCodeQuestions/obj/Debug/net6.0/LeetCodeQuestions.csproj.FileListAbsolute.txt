@@ -1,0 +1,15 @@
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net6.0\LeetCodeQuestions.exe
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net6.0\LeetCodeQuestions.deps.json
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net6.0\LeetCodeQuestions.runtimeconfig.json
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net6.0\LeetCodeQuestions.dll
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net6.0\LeetCodeQuestions.pdb
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\LeetCodeQuestions.csproj.AssemblyReference.cache
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\LeetCodeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\LeetCodeQuestions.AssemblyInfoInputs.cache
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\LeetCodeQuestions.AssemblyInfo.cs
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\LeetCodeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\LeetCodeQuestions.dll
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\refint\LeetCodeQuestions.dll
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\LeetCodeQuestions.pdb
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\LeetCodeQuestions.genruntimeconfig.cache
+C:\Users\rassingh\source\repos\leetcodequestions\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net6.0\ref\LeetCodeQuestions.dll
