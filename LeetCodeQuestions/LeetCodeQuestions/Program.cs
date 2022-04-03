@@ -11,6 +11,16 @@ var searchTarget = new SearchTargetInArray();
 var countSegments = new CountSegments();
 //var result = countSegments.CountSegments1("    foo    bar");
 var getTarget = new GetTarget();
-var result = getTarget.Search(new int[] { 1, 3 }, 3);
-Console.WriteLine(result);
+//var result = getTarget.Search(new int[] { 1, 3 }, 3);
+
+int[,] matrix = {{11,12,13,14},
+                          {21,22,23,24},
+                          {31,32,33,34}};
+
+//var result = array.Where(x => array[x] == array[x + 1]).First();
+//Console.WriteLine(result);
+
+//var result = FindNeedle.StrStr("mississippi", "issip");
+var result1 = new ValidPalindrome().RepeatedSubstringPattern("abab");
+//Console.WriteLine(result);
 Console.ReadLine();
