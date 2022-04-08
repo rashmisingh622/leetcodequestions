@@ -21,6 +21,7 @@ int[,] matrix = {{11,12,13,14},
 //Console.WriteLine(result);
 
 //var result = FindNeedle.StrStr("mississippi", "issip");
-var result1 = new ValidPalindrome().RepeatedSubstringPattern("abab");
+//var result1 = new ValidPalindrome().RepeatedSubstringPattern("abab");
+var result2 = HammingDistance.HammingDistance1(1, 4);
 //Console.WriteLine(result);
 Console.ReadLine();
